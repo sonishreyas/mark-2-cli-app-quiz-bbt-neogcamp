@@ -24,7 +24,15 @@ var questions = [
   {
     question: "Who is the only member of the boys to not hold a PhD ?",
     answer: "Howard"
-  } 
+  },
+  {
+    question: "What is the name of Raj's Sister ?",
+    answer: "Priya"
+  },
+  {
+    question: "Who is Penny's bestfriend ?",
+    answer: "Amy"
+  }    
 ];
 
 function welcome(){
